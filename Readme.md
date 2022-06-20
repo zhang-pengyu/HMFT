@@ -1,7 +1,7 @@
 Code for Hierarchical Multi-modal Fusion Tracker in CVPR2022 paper [Visible-Thermal UAV Tracking: A Large-Scale Benchmark and New Baseline](https://arxiv.org/pdf/2204.04120.pdf), which is a strong baseline for RGB-T tracking.
 
 ## Framework
-![alt text](https://github.com/zhang-pengyu/HMFT/blob/main/framework.png)
+![alt text](https://github.com/zhang-pengyu/HMFT/blob/master/framework.png)
 *Three complementary modules are introduced for multi-modal fusion*
  * **Complementary Image Fusion(CIF)**:
  * **Discriminative Feature Fusion(DFF)**:
@@ -33,7 +33,7 @@ python run_RGBT234.py
 ## Training
 
 ## Results
-![alt text](https://github.com/zhang-pengyu/HMFT/blob/main/results.png)
+![alt text](https://github.com/zhang-pengyu/HMFT/blob/master/results.png)
 The results can be found at [[GoogleDrive]](https://drive.google.com/file/d/1IKWNaKscdw8A5vZlzN5Iyyh_liFhtnHZ/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1-g_LbPuwAGCl0DvwwXMesg?pwd=ot32)
 ## Citation
 If you find our work useful, please cite
