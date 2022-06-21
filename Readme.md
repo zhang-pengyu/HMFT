@@ -3,9 +3,9 @@ Code for Hierarchical Multi-modal Fusion Tracker in CVPR2022 paper [Visible-Ther
 ## Framework
 ![alt text](https://github.com/zhang-pengyu/HMFT/blob/master/framework.png)
 *Three complementary modules are introduced for multi-modal fusion*
- * **Complementary Image Fusion(CIF)**:
- * **Discriminative Feature Fusion(DFF)**:
- * **Adaptive Decision Fusion(ADF)**:
+ * **Complementary Image Fusion(CIF)**: CIF aims to use a shared backbone to extract complementary information and Kullback–Leibler divergence loss is introduced to unify the feature distribution.
+ * **Discriminative Feature Fusion(DFF)**: DFF aims to build individual representations for both modalities and learns a channel-wise modality weight to fuse them.
+ * **Adaptive Decision Fusion(ADF)**: ADF is to adaptively provide the final response by considering the results of two branches and the modality confidence. 
 ## Model Zoo
 The pretrained model are available at [[GoogleDrive]](https://drive.google.com/file/d/1vnof9qMFsfwmn8xk-UKaFhHTYM1F85j2/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1561M-cvx5wUXm_AXRVDiVw?pwd=cegf)
 
