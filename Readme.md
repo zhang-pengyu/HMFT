@@ -20,7 +20,7 @@ bash install.sh
 ### Run demo sequence
 ```
 cd $Path_to_HMFT$/mfDiMP/pytracking
-python run_demo.py
+python demo.py
 ```
 ### Test on current benchmarks
 ```
