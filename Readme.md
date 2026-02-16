@@ -7,7 +7,7 @@ Code for Hierarchical Multi-modal Fusion Tracker in CVPR2022 paper [Visible-Ther
  * **Discriminative Feature Fusion(DFF)**: DFF aims to build individual representations for both modalities and learns a channel-wise modality weight to fuse them.
  * **Adaptive Decision Fusion(ADF)**: ADF is to adaptively provide the final response by considering the results of two branches and the modality confidence. 
 ## Model Zoo
-The pretrained model are available at [[GoogleDrive]](https://drive.google.com/file/d/1vnof9qMFsfwmn8xk-UKaFhHTYM1F85j2/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1561M-cvx5wUXm_AXRVDiVw?pwd=cegf)
+The pretrained model are available at [[GoogleDrive]](https://drive.google.com/file/d/1vnof9qMFsfwmn8xk-UKaFhHTYM1F85j2/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1OJicIvNh4h8ta7hS_2TqgA?pwd=bv5r)
 
 ## Get Started
 ### Set up Anaconda environment
@@ -34,7 +34,7 @@ python run_RGBT234.py
 
 ## Results
 ![alt text](https://github.com/zhang-pengyu/HMFT/blob/master/results.png)
-The results can be found at [[GoogleDrive]](https://drive.google.com/file/d/1IKWNaKscdw8A5vZlzN5Iyyh_liFhtnHZ/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1OJicIvNh4h8ta7hS_2TqgA?pwd=bv5r)
+The results can be found at [[GoogleDrive]](https://drive.google.com/file/d/1IKWNaKscdw8A5vZlzN5Iyyh_liFhtnHZ/view?usp=sharing)
 ## Citation
 If you find our work useful, please cite
 
