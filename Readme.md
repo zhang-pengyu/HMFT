@@ -34,7 +34,7 @@ python run_RGBT234.py
 
 ## Results
 ![alt text](https://github.com/zhang-pengyu/HMFT/blob/master/results.png)
-The results can be found at [[GoogleDrive]](https://drive.google.com/file/d/1IKWNaKscdw8A5vZlzN5Iyyh_liFhtnHZ/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1-g_LbPuwAGCl0DvwwXMesg?pwd=ot32)
+The results can be found at [[GoogleDrive]](https://drive.google.com/file/d/1IKWNaKscdw8A5vZlzN5Iyyh_liFhtnHZ/view?usp=sharing) and [[BaiduDisk]](https://pan.baidu.com/s/1OJicIvNh4h8ta7hS_2TqgA?pwd=bv5r)
 ## Citation
 If you find our work useful, please cite
 
